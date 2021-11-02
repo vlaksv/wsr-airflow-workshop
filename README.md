@@ -9,4 +9,10 @@ To Install Airflow before the workshop, you can either
 
 ### Data for the workshop
 
-To be able to follow along the workshop activity, we recommend that you bring your own data or download one of the open source data sets. We recommend looking at [Kaggle](https://www.kaggle.com/). Please ensure the data is in comma delimited CSV format. 
+To be able to follow along the workshop activity, we recommend that you bring your own data or download one of the open source data sets. We recommend looking at [Kaggle](https://www.kaggle.com/). Please ensure the data is in comma delimited CSV format.
+
+### Resources
+
+[Silicon Valley Diversity Data](https://www.kaggle.com/rtatman/silicon-valley-diversity-data)
+
+[Airflow Best Practices](https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html)
