@@ -1,5 +1,7 @@
 # wsr-airflow-workshop
+
 ## Workshop prerequisites
+
 ### Installing Airflow
 
 To Install Airflow before the workshop, you can either
